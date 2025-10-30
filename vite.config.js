@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [
      tailwindcss(),
     react()],
-    base: '/IEAD/',
+    base: '/IEADNEGO/',
 })
